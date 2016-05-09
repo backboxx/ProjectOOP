@@ -1,0 +1,12 @@
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\OPPProject.exe.config
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\OPPProject.exe
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\OPPProject.pdb
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\EntityFramework.dll
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\EntityFramework.xml
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\obj\Debug\OPPProject.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\obj\Debug\OPPProject.Properties.Resources.resources
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\obj\Debug\OPPProject.csproj.GenerateResource.Cache
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\obj\Debug\OPPProject.exe
+C:\Users\Ivo\Desktop\EntytyFrameworkExamplesHomework\OPPProject\OPPProject\obj\Debug\OPPProject.pdb
